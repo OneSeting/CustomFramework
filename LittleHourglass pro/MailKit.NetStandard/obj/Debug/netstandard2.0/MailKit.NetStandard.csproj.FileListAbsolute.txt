@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MailKit.deps.json
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MailKit.dll
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MailKit.pdb
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MailKit.xml
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MimeKit.dll
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MimeKit.pdb
+C:\Users\Administrator\Desktop\pros\MailKit\bin\Debug\netstandard2.0\MimeKit.xml
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.NetStandard.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.NetStandard.csproj.CopyComplete
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.dll
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.xml
+C:\Users\Administrator\Desktop\pros\MailKit\obj\Debug\netstandard2.0\MailKit.pdb

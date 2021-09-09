@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\LittleHourglass pro\MailKit.NetStandard\obj\Debug\netcoreapp3.1\MailKit.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\MailKit.NetStandard\obj\Debug\netcoreapp3.1\MailKit.NetStandard.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LittleHourglass pro\MailKit.NetStandard\obj\Debug\netcoreapp3.1\MailKit.NetStandard.csproj.CoreCompileInputs.cache

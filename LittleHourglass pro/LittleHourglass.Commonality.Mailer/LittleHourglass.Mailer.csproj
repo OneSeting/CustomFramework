@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Twilio" Version="5.61.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LittleHourglass.Commonality.BaseExpand\LittleHourglass.Commonality.BaseExpand.csproj" />
+    <ProjectReference Include="..\LittleHourglass.Commonality.Logger\LittleHourglass.Logger.csproj" />
+    <ProjectReference Include="..\MailKit.NetStandard\MailKit.NetStandard.csproj" />
+    <ProjectReference Include="..\MimeKit.NetStandard\MimeKit.NetStandard.csproj" />
+  </ItemGroup>
+
+</Project>

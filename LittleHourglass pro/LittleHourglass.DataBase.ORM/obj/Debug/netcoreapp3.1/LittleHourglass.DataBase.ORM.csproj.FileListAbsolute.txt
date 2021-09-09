@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\bin\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.deps.json
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\bin\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\bin\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.pdb
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.DataBase.ORM\obj\Debug\netcoreapp3.1\LittleHourglass.DataBase.ORM.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\LittleHourglass.Logger.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\obj\Debug\netcoreapp3.1\LittleHourglass.Filebase.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\obj\Debug\netcoreapp3.1\LittleHourglass.Filebase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\obj\Debug\netcoreapp3.1\LittleHourglass.Filebase.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\obj\Debug\netcoreapp3.1\LittleHourglass.Filebase.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\LittleHourglass pro\LittleHourglass.Filebase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

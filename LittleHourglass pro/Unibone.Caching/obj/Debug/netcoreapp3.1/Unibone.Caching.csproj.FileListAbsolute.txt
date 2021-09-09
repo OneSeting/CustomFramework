@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\bin\Debug\netcoreapp3.1\Unibone.Caching.deps.json
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\bin\Debug\netcoreapp3.1\Unibone.Caching.dll
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\bin\Debug\netcoreapp3.1\Unibone.Caching.pdb
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.dll
+C:\Users\Administrator\Desktop\pros\Unibone.Caching\obj\Debug\netcoreapp3.1\Unibone.Caching.pdb

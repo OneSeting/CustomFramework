@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\LittleHourglass pro\MimeKit.NetStandard\obj\Debug\netcoreapp3.1\MimeKit.NetStandard.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\MimeKit.NetStandard\obj\Debug\netcoreapp3.1\MimeKit.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LittleHourglass pro\MimeKit.NetStandard\obj\Debug\netcoreapp3.1\MimeKit.NetStandard.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LittleHourglass pro\MimeKit.NetStandard\obj\Debug\netcoreapp3.1\MimeKit.NetStandard.csproj.CoreCompileInputs.cache

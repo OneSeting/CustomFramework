@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTTcDG8CuJcZJC2f73Za9sw0WnYz0/I1JzVok56KtYy4KHEKpyJ8AftIzdZ3lcOaNELyQh+p1LMsapXw96tNCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\LittleHourglass pro\\LittleHourglass.Commonality.BaseExpand\\LittleHourglass.Commonality.BaseExpand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\pros\MimeKit\bin\Debug\netstandard2.0\MimeKit.deps.json
+C:\Users\Administrator\Desktop\pros\MimeKit\bin\Debug\netstandard2.0\MimeKit.dll
+C:\Users\Administrator\Desktop\pros\MimeKit\bin\Debug\netstandard2.0\MimeKit.pdb
+C:\Users\Administrator\Desktop\pros\MimeKit\bin\Debug\netstandard2.0\MimeKit.xml
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.dll
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.xml
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.pdb
+C:\Users\Administrator\Desktop\pros\MimeKit\obj\Debug\netstandard2.0\MimeKit.NetStandard.csprojAssemblyReference.cache
